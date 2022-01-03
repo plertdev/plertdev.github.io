@@ -4,24 +4,69 @@
   
   <url>
     <loc>https://plertdev.github.io/categories/</loc>
+    <lastmod>2022-01-02T22:40:29+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://plertdev.github.io/series/</loc>
+    <loc>https://plertdev.github.io/posts/</loc>
+    <lastmod>2022-01-02T22:40:29+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://plertdev.github.io/tags/</loc>
+    <lastmod>2022-01-02T22:40:29+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://plertdev.github.io/tags/%EA%B0%80%EC%9D%B4%EB%93%9C/</loc>
+    <lastmod>2022-01-02T22:40:29+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://plertdev.github.io/categories/%EA%B0%80%EC%9D%B4%EB%93%9C/</loc>
+    <lastmod>2022-01-02T22:40:29+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://plertdev.github.io/tags/%EC%BF%A0%ED%8C%A1/</loc>
+    <lastmod>2022-01-02T22:40:29+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://plertdev.github.io/</loc>
+    <lastmod>2022-01-02T22:40:29+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://plertdev.github.io/tags/%ED%85%94%EB%A0%88%EA%B7%B8%EB%9E%A8/</loc>
+    <lastmod>2022-01-02T22:40:29+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://plertdev.github.io/coupang-guide/</loc>
+    <lastmod>2022-01-02T22:40:29+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://plertdev.github.io/series/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
